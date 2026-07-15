@@ -16,7 +16,7 @@ sudo rkhunter --check
 sudo lynis audit system
 ```
 
-## Execute PRE_LOAD Hook
+## Execute PRE_LOAD 
 ```bash
 cat << 'EOF' > demo_hook.c
 #define _GNU_SOURCE
