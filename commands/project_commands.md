@@ -47,8 +47,10 @@ sudo rkhunter --check
 sudo lynis audit system
 
 
+## remove PRE_LOAD
 
 
+##System hardening
 ## Firewall
 
 ```bash
